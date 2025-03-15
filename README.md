@@ -1,4 +1,5 @@
 # Boosting-Yulu-s-Revenue-Through-Weather-Analysis-
+
 Rental Bikes Analysis
 
 Overview
@@ -37,7 +38,7 @@ In summer, during weekends/holidays, the highest rental count recorded was 1893 
 
 In the fall season, under weather condition 1 (Clear/Few Clouds), the highest rental count recorded was 1930 bikes.
 
-Repository Contents
+Repository Contents:
 
 Data: Raw dataset used for analysis.
 
